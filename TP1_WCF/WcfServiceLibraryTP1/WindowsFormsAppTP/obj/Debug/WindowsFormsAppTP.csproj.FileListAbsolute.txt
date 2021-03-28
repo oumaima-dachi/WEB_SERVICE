@@ -1,0 +1,10 @@
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\bin\Debug\WindowsFormsAppTP.exe.config
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\bin\Debug\WindowsFormsAppTP.exe
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\bin\Debug\WindowsFormsAppTP.pdb
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.Form1.resources
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.Properties.Resources.resources
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.exe
+C:\Users\ahmed\source\repos\WcfServiceLibraryTP1\WindowsFormsAppTP\obj\Debug\WindowsFormsAppTP.pdb

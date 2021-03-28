@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibraryTP1", "WcfServiceLibraryTP1\WcfServiceLibraryTP1.csproj", "{6392D41D-00DC-4E41-AE73-6B0FA8E158E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppTP", "WindowsFormsAppTP\WindowsFormsAppTP.csproj", "{F1DD7B3A-8551-4FCA-BF42-F7792DE455AA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6392D41D-00DC-4E41-AE73-6B0FA8E158E4} = {6392D41D-00DC-4E41-AE73-6B0FA8E158E4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6392D41D-00DC-4E41-AE73-6B0FA8E158E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6392D41D-00DC-4E41-AE73-6B0FA8E158E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6392D41D-00DC-4E41-AE73-6B0FA8E158E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6392D41D-00DC-4E41-AE73-6B0FA8E158E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DD7B3A-8551-4FCA-BF42-F7792DE455AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DD7B3A-8551-4FCA-BF42-F7792DE455AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DD7B3A-8551-4FCA-BF42-F7792DE455AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DD7B3A-8551-4FCA-BF42-F7792DE455AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCF49FE-0CFD-417E-A9DF-3096CCDA47CB}
+	EndGlobalSection
+EndGlobal
